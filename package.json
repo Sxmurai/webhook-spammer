@@ -1,0 +1,13 @@
+{
+  "name": "webhook-spammer",
+  "version": "1.0.0",
+  "description": "trollage",
+  "main": "index.js",
+  "repository": "git@github.com:Sxmurai/webhook-spammer.git",
+  "author": "Sxmurai <gavrw0607@gmail.com>",
+  "license": "GPL-3.0",
+  "private": false,
+  "dependencies": {
+    "petitio": "^1.4.0"
+  }
+}
